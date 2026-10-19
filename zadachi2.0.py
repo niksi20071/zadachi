@@ -110,7 +110,8 @@ for i in range(0, 10):
         sum+=1
 print(f"The count of numbers between {min} and {max} is: {sum}")
 """
-
+#change 1 
+print("purva promqna")
 
 
 
